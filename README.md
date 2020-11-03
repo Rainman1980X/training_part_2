@@ -6,3 +6,5 @@ This project is created manuelly.
 
 Run `node app.js` below each subdirectory. 
 
+## Links
+* https://nodejs.org/api/fs.html
